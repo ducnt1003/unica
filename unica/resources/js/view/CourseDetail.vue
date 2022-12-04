@@ -151,7 +151,7 @@
               </p>
             </div>
 
-            <div class="card ">
+            <div class="card">
               <div class="card-header">
                 <h2 class="mb-3">Nội dung khóa học</h2>
               </div>
@@ -183,6 +183,10 @@
                           <div class="col-xs-2 col-md-2">
                             <a href="">Học thử</a>
                           </div>
+                          <video width="320" height="240" controls>
+                            <source src="storage/video/Stephen Sanchez - Until I Found You.mp4"
+                            type="video/mp4"> video from video folder.
+                          </video>
                           <div class="col-xs-3 col-md-2">6:23</div>
                         </div>
                       </div>
